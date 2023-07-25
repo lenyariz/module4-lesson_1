@@ -1,0 +1,18 @@
+.paragraph-1 {
+    background: green;
+}
+
+.paragraph-2 {
+    border: red solid 2px;
+    margin: 60px;
+    padding: 40px
+}
+
+.paragraph-3 {
+    color: green;
+    font-family: Courier;
+}
+
+.info{
+    font-weight: bold;
+}
